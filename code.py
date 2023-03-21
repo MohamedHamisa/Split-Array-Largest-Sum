@@ -14,3 +14,6 @@ class Solution:
             else: 
                 l = upperLimit + 1
         return l 
+    
+    #O(N * log(S))
+    #Space: O(1)
